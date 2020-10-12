@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-kr1"
+    }
+  },
+  "defaultProject": "my-kr1",
+  "cli": {
+    "analytics": "2270e714-b440-4fe4-a97e-e4a083cf3894"
+  }
 }
